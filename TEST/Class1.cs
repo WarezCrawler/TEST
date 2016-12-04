@@ -8,6 +8,6 @@ namespace TEST
 {
     public class Class1
     {
-        //branch1 --> 2
+        //branch1 --> 2 --> 3
     }
 }
